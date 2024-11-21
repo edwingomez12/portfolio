@@ -4,7 +4,7 @@ function WorkExperience() {
         role: "Software Development Engineer",
         company: "GM Financial",
         duration: "July 2021 - Present",
-        description: "Worked on the credit team, building and optimizing software solutions to streamline loan processes and improve user experience. Leveraged .NET and React for full-stack development, ensuring high performance and reliability."
+        description: "Worked on the credit team, building and optimizing software solutions to streamline loan processes and improve user experience. Leveraged .NET for full-stack development, ensuring high performance and reliability."
       },
       {
         role: "Application Developer",

@@ -11,11 +11,6 @@
         title: "Video Game Code Scraper/Discord Bot",
         description: "A Python script that scrapes codes for the Roblox game, checks for new codes daily, and sends updates to a Discord server.",
         link: "#"
-      },
-      {
-        title: "Portfolio Website",
-        description: "A personal portfolio site showcasing projects, built with React and styled with Tailwind CSS.",
-        link: "#"
       }
     ];
   
@@ -23,7 +18,7 @@
       <section id="projects" className="bg-gray-50 py-12">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-8">Projects</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-8">
             {projects.map((project, index) => (
               <div
                 key={index}
