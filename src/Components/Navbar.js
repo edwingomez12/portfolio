@@ -20,6 +20,7 @@ function Header() {
           <li><a href="#about" className="hover:text-gray-400">About</a></li>
           <li><a href='#work-experience' className='hover:text-gray-400'>Work</a></li>
           <li><a href="#projects" className="hover:text-gray-400">Projects</a></li>
+          <li><a href='https://drive.google.com/file/d/1fCCqITbcTcLpxxs0jCF_QM-vQMCa9D9g/view?usp=drive_link' className='hover:text-gray-400'>Resume</a></li>
           <li><a href="#contact" className="hover:text-gray-400">Contact</a></li>
         </ul>
       </nav>
